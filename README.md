@@ -21,20 +21,19 @@ To run this test cases, we need to install the following:
 
 1. Set path for python installation
 2. Clone this repo on your local machine
-bash
+```bash
 git clone <repo_url>
+```
 3. Open pycharm
 4. Select file > Open Project
 5. Go to repo folder that cloned on step 2
 6. Open console
 7. Run the test case scripts
-bash
+```bash
 robot TC1.robot
 robot TC2.robot
 robot TC3.robot
+```
 8. Open report.html on browser to view test results and logs
 
 ## Thank You
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
